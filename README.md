@@ -18,11 +18,13 @@ I am a passionate low-level developer focused on building high-performance tools
 
 ### 🛠 Tech Stack & Tools
 
+![Zsh](https://img.shields.io/badge/zsh-%23293031.svg?style=for-the-badge&logo=zsh&logoColor=white)
+![Niri](https://img.shields.io/badge/niri-gray?style=for-the-badge&logo=wayland&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-101010?style=for-the-badge&logo=zed&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23E32F26.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
+![Fedora](https://img.shields.io/badge/fedora-%2351A2DA.svg?style=for-the-badge&logo=fedora&logoColor=white)
 
 ---
 
