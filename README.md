@@ -10,7 +10,7 @@ I am a passionate low-level developer focused on building high-performance tools
 
 | Project | Stack | Description |
 | :--- | :---: | :--- |
-| **[rgrep](https://github.com/iamadvisory/rgrep)** | `Rust` | A high-performance multi-threaded grep clone featuring a Producer-Consumer model. Packaged for **Arch Linux (AUR)** and **Fedora (COPR)**. |
+| **[rgrep](https://github.com/iamadvisory/rgrep)** | `Rust` | A high-performance multi-threaded grep clone featuring a Producer-Consumer model.
 | **[tamagochi-monitor](https://github.com/iamadvisory/tamagochi-monitor)** | `Rust` | A gamified system monitor where your CPU load directly affects your digital pet's health. Includes a "Gentoo mode". |
 | **[3N-plus-1](https://github.com/iamadvisory/3N-plus-1)** | `C` | A fast CLI visualizer for the Collatz conjecture with localized output and ANSI color support. |
 
