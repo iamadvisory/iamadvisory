@@ -31,9 +31,8 @@ I am a passionate low-level developer focused on building high-performance tools
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamadvisory&show_icons=true&theme=tokyonight&count_private=true" alt="iamadvisory's GitHub stats" />
-</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamadvisory&layout=compact&theme=tokyonight&hide=shell" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamadvisory&show_icons=true&theme=tokyonight&count_private=true" alt="iamadvisory's GitHub stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamadvisory&layout=compact&theme=tokyonight&hide=shell" alt="Top Languages" height="180px" />
 </p>
 
 ---
