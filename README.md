@@ -13,6 +13,8 @@ I am a passionate low-level developer focused on building high-performance tools
 | **[rgrep](https://github.com/iamadvisory/rgrep)** | `Rust` | A high-performance multi-threaded grep clone featuring a Producer-Consumer model.
 | **[tamagochi-monitor](https://github.com/iamadvisory/tamagochi-monitor)** | `Rust` | A gamified system monitor where your CPU load directly affects your digital pet's health. Includes a "Gentoo mode". |
 | **[3N-plus-1](https://github.com/iamadvisory/3N-plus-1)** | `C` | A fast CLI visualizer for the Collatz conjecture with localized output and ANSI color support. |
+| **[GNU-Linear-System-Solver](https://github.com/iamadvisory/GNU-Linear-System-Solver)** | `C` | GNU Linear System Solver (glsq) — A lightweight C utility for solving and visualizing 2x2 linear systems. |
+
 
 ---
 
@@ -24,7 +26,6 @@ I am a passionate low-level developer focused on building high-performance tools
 ![Rust](https://img.shields.io/badge/rust-%23E32F26.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
-![Fedora](https://img.shields.io/badge/fedora-%2351A2DA.svg?style=for-the-badge&logo=fedora&logoColor=white)
 
 ---
 
