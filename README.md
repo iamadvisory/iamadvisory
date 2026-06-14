@@ -18,14 +18,12 @@ I am a passionate low-level developer focused on building high-performance tools
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Tech Stack 
 
-![Zsh](https://img.shields.io/badge/zsh-%23293031.svg?style=for-the-badge&logo=zsh&logoColor=white)
-![Niri](https://img.shields.io/badge/niri-gray?style=for-the-badge&logo=wayland&logoColor=white)
-![Zed](https://img.shields.io/badge/Zed-101010?style=for-the-badge&logo=zed&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23E32F26.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
 
 ---
 
