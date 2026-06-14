@@ -2,19 +2,7 @@
 
 ### Rust, C & Linux | 🦀
 
-I am a passionate low-level developer focused on building high-performance tools using **Rust** and **C**. I enjoy exploring how operating systems work and creating efficient command-line utilities.
-
----
-
-### 🚀 Featured Projects
-
-| Project | Stack | Description |
-| :--- | :---: | :--- |
-| **[rgrep](https://github.com/iamadvisory/rgrep)** | `Rust` | A high-performance multi-threaded grep clone featuring a Producer-Consumer model.
-| **[tamagochi-monitor](https://github.com/iamadvisory/tamagochi-monitor)** | `Rust` | A gamified system monitor where your CPU load directly affects your digital pet's health. Includes a "Gentoo mode". |
-| **[3N-plus-1](https://github.com/iamadvisory/3N-plus-1)** | `C` | A fast CLI visualizer for the Collatz conjecture with localized output and ANSI color support. |
-| **[GNU-Linear-System-Solver](https://github.com/iamadvisory/GNU-Linear-System-Solver)** | `C` | GNU Linear System Solver (glsq) — A lightweight C utility for solving and visualizing 2x2 linear systems. |
-
+Low-level enthusiast & systems developer. Building fast, lightweight tools close to the metal.
 
 ---
 
@@ -35,6 +23,3 @@ I am a passionate low-level developer focused on building high-performance tools
 </p>
 
 ---
-
-### ⚡ Fun Fact
-> My `tamagochi-monitor` has a special `--gentoo` flag for those who spend their nights compiling `@world`. 🐧
