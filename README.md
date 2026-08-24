@@ -4,7 +4,7 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-00599C?style=for-the-badge&logo=zig&logoColor=white)
-![NASM](https://img.shields.io/badge/NASM-00599C?style=for-the-badge&logo=asm&logoColor=white)
+![NASM](https://img.shields.io/badge/NASM-00599C?style=for-the-badge&logo=assembley&logoColor=white)
 
 ---
 
